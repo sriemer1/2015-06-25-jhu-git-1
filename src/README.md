@@ -18,4 +18,4 @@ src for source code
     1. item 2
         1. item 3
 
-###### from Terminal.app
+###### edit from github.com
