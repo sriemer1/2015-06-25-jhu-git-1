@@ -7,6 +7,11 @@ This project was inspired (and modeled off) by:
 
 [Noble WS 2009 A Quick Guide to Organizing Computational Biology Projects. PLoS Comput Biol 5 7: e1000424. doi:10.1371/journal.pcbi.1000424](http://dx.doi.org/10.1371/journal.pcbi.1000424)
 
+
+
+
+
+hi
 ## What it does
 the `setup_project_dir.sh` script creates the following folder structure:
 
