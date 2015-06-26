@@ -12,6 +12,7 @@ This project was inspired (and modeled off) by:
 
 
 hi
+hello
 ## What it does
 the `setup_project_dir.sh` script creates the following folder structure:
 
